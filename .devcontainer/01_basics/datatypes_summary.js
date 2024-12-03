@@ -3,3 +3,10 @@
 
 const num= 1234567891011121314151617181920n;
 console.log(typeof num)
+
+
+
+
+//stack -----> primitive &&& heap -----> non-primitive
+ let nameProgram = "javascript"
+ let nameSecprogram = "tailwind"
